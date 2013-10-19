@@ -1,0 +1,5 @@
+[
+	{
+	    "keys": ["alt+r"], "command": "view_reg_exp_diagram"
+	}
+]
